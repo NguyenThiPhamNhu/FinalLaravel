@@ -1,0 +1,49 @@
+
+header{
+    height: 50%;
+}
+.na{
+    display: flex;
+    margin: center;
+    margin-left: 40%;
+
+   
+}
+.na2{
+    display: flex;
+    margin: center;
+    margin-left: 20%;
+
+   
+}
+.na3{
+    display: flex;
+    margin: center;
+    margin-left: 20%;
+
+   
+}
+.menu{
+    display: flex;
+    margin: center;
+    margin-left: 20%;
+
+   
+}
+a{
+    transition: opacity 0.24s ease-in-out;
+    
+    text-decoration-color: yellow;
+}
+a:hover{
+    color:black;
+}
+a:visited{
+    color: red;
+}
+
+
+
+
+
+
